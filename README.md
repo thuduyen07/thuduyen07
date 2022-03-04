@@ -1,13 +1,15 @@
 <img src="https://scontent.fsgn5-3.fna.fbcdn.net/v/t39.30808-6/231348992_2995693407377830_3606121578515178374_n.jpg?_nc_cat=104&ccb=1-5&_nc_sid=19026a&_nc_ohc=pNwyCC02hjgAX8xOhzT&_nc_ht=scontent.fsgn5-3.fna&oh=00_AT8x-o5gYN5tUjyR6m-grvrMgf1cQGFivhPHTkjES8kkTQ&oe=622641FE" width=25% height=25%>
 
->Do the small things, build the best thing
+>Do the small things, build the best things.
 
 ![](https://komarev.com/ghpvc/?username=thuduyen07)
 ![](https://komarev.com/ghpvc/?username=DuyenNguyenEPAM)
 
 ### About
 Hello, I'm Thu Duyen. 
+
 I'm a software automation test engineer. I'm working on Web UI testing, API testing and mobile testing using [Selenium](https://www.selenium.dev/), [Rest Assured](https://github.com/rest-assured/rest-assured) and [Appium](https://appium.io/).
+I'm learning Mathematics and Computer Science, and looking for an opportunity to work on ML projects.
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thuduyen07)](https://github.com/anuraghazra/github-readme-stats&show_icons=true)
