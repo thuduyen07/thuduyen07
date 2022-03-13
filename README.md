@@ -1,9 +1,8 @@
-<img src="https://scontent.fsgn5-12.fna.fbcdn.net/v/t39.30808-6/273016505_3126543380959498_3108587536232685403_n.jpg?_nc_cat=102&ccb=1-5&_nc_sid=a4a2d7&_nc_ohc=lh7E1L-q2sMAX-yvKcg&_nc_ht=scontent.fsgn5-12.fna&oh=00_AT9Gr2JhwYIhgo9Kah_Bv9IiYl3pucNPXrAOD-HyTzNrlQ&oe=62309EE0" width=10% height=10%>
+<img src="https://scontent.fsgn5-12.fna.fbcdn.net/v/t39.30808-6/273016505_3126543380959498_3108587536232685403_n.jpg?_nc_cat=102&ccb=1-5&_nc_sid=a4a2d7&_nc_ohc=lh7E1L-q2sMAX-yvKcg&_nc_ht=scontent.fsgn5-12.fna&oh=00_AT9Gr2JhwYIhgo9Kah_Bv9IiYl3pucNPXrAOD-HyTzNrlQ&oe=62309EE0" alt="thuduyen07" width=10% height=10%>
 
 >Do the small things, build the best things.
 
 ![](https://komarev.com/ghpvc/?username=thuduyen07)
-![](https://komarev.com/ghpvc/?username=DuyenNguyenEPAM)
 
 ### About
 Hello, I'm Thu Duyen. 
@@ -13,10 +12,8 @@ I'm learning Mathematics and Computer Science, and looking for an opportunity to
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thuduyen07)](https://github.com/anuraghazra/github-readme-stats&show_icons=true)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DuyenNguyenEPAM)](https://github.com/anuraghazra/github-readme-stats&show_icons=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thuduyen07&langs_count=4&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DuyenNguyenEPAM&langs_count=4&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thuduyen07&langs_count=5&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=thuduyen07&theme=nord_bright)
 
