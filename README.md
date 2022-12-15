@@ -1,4 +1,4 @@
-<img src="https://scontent.fsgn5-12.fna.fbcdn.net/v/t39.30808-6/273016505_3126543380959498_3108587536232685403_n.jpg?_nc_cat=102&ccb=1-5&_nc_sid=a4a2d7&_nc_ohc=lh7E1L-q2sMAX-yvKcg&_nc_ht=scontent.fsgn5-12.fna&oh=00_AT9Gr2JhwYIhgo9Kah_Bv9IiYl3pucNPXrAOD-HyTzNrlQ&oe=62309EE0" alt="thuduyen07" width=10% height=10%>
+<img src="https://scontent-xsp1-1.xx.fbcdn.net/v/t39.30808-6/311879275_3317923531821481_2270300470147943733_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=a4a2d7&_nc_ohc=0afC9thXzsMAX-p2YIr&_nc_ht=scontent-xsp1-1.xx&oh=00_AfDO4V-ZxY23aFqGkvq9XWbzJtS63Zbk9hlSDx8K1cV7nQ&oe=63A0551F" alt="thuduyen07" width=10% height=10%>
 
 >Do the small things, build the best things.
 
@@ -7,7 +7,7 @@
 ### About
 Hello, I'm Thu Duyen. 
 
-I'm a software automation test engineer. I'm working on Web UI testing, API testing and mobile testing using [Selenium](https://www.selenium.dev/), [Rest Assured](https://github.com/rest-assured/rest-assured) and [Appium](https://appium.io/).
+I'm a software automation tester. I'm working on Web UI testing, API testing and mobile testing using [Selenium](https://www.selenium.dev/), [Rest Assured](https://github.com/rest-assured/rest-assured) and [Appium](https://appium.io/).
 
 Besides, I'm learning Mathematics and Computer Science, and looking for an opportunity to work on ML projects. If you are in need of teammates, kindly contact me via email: thuduyen07@gmail.com
 
