@@ -10,7 +10,7 @@
 name: Monthly profile updating
 on:
   schedule:
-    - cron: 0 12 1 * *
+    - cron: 0 12 21 * *
 
 jobs:
   create_issue:
