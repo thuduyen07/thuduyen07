@@ -9,8 +9,9 @@ Hello, I'm Thu Duyen.
 
 I'm a software automation tester. I'm working on Web UI testing, API testing and mobile testing using [Selenium](https://www.selenium.dev/), [Rest Assured](https://github.com/rest-assured/rest-assured) and [Appium](https://appium.io/).
 
+<!--
 Besides, I'm learning Mathematics and Computer Science, and looking for an opportunity to work on ML projects. If you are in need of teammates, kindly contact me via email: thuduyen07@gmail.com
-
+-->
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thuduyen07)](https://github.com/anuraghazra/github-readme-stats&show_icons=true)
 
