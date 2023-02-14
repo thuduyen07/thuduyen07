@@ -1,6 +1,6 @@
 <p align="right"><img src="https://komarev.com/ghpvc/?username=thuduyen07"></p>
 
-<p align="center"><img src="https://github.com/thuduyen07/thuduyen07/blob/main/234160250_2997901120490392_9088379777418705540_n.jpg" alt="thuduyen07" width=40% height=40%></p>
+<p align="center"><img src="https://github.com/thuduyen07/thuduyen07/blob/main/234160250_2997901120490392_9088379777418705540_n.jpg" alt="thuduyen07" width=20% height=20%></p>
 
 <!-- <p align="center">Do the small things, build the best things</p> -->
 
