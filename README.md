@@ -1,13 +1,18 @@
-<img src="https://scontent-xsp1-1.xx.fbcdn.net/v/t39.30808-6/311879275_3317923531821481_2270300470147943733_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=a4a2d7&_nc_ohc=0afC9thXzsMAX-p2YIr&_nc_ht=scontent-xsp1-1.xx&oh=00_AfDO4V-ZxY23aFqGkvq9XWbzJtS63Zbk9hlSDx8K1cV7nQ&oe=63A0551F" alt="thuduyen07" width=10% height=10%>
+<!-- <img align="center" src="https://scontent-xsp1-1.xx.fbcdn.net/v/t39.30808-6/311879275_3317923531821481_2270300470147943733_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=a4a2d7&_nc_ohc=0afC9thXzsMAX-p2YIr&_nc_ht=scontent-xsp1-1.xx&oh=00_AfDO4V-ZxY23aFqGkvq9XWbzJtS63Zbk9hlSDx8K1cV7nQ&oe=63A0551F](https://www.facebook.com/stories/6387792097918088/?source=story_tray)" alt="thuduyen07" width=10% height=10%> -->
 
->Do the small things, build the best things.
+![]()
+
+<p align="center">Do the small things, build the best things</p>
 
 ![](https://komarev.com/ghpvc/?username=thuduyen07)
 
-### About
-Hello, I'm Thu Duyen. 
+<h1 align="center">Hi, I'm Thu Duyen</h1>
 
-I'm a software automation tester. I'm working on Web UI testing, API testing and mobile testing using [Selenium](https://www.selenium.dev/), [Rest Assured](https://github.com/rest-assured/rest-assured) and [Appium](https://appium.io/).
+<h3 align="center">I'm a software test automation engineer</h3>
+
+<!--
+I'm working on Web UI testing, API testing and mobile testing using [Selenium](https://www.selenium.dev/), [Rest Assured](https://github.com/rest-assured/rest-assured) and [Appium](https://appium.io/).
+-->
 
 <!--
 Besides, I'm learning Mathematics and Computer Science, and looking for an opportunity to work on ML projects. If you are in need of teammates, kindly contact me via email: thuduyen07@gmail.com
