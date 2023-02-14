@@ -1,6 +1,6 @@
-<video align="center" controls="controls" src="https://www.facebook.com/stories/6387792097918088/?source=story_tray" alt="thuduyen07" width=10% height=10%>
+<img align="center" controls="controls" src="" alt="thuduyen07" width=10% height=10%>
 
-![](./330004020_5837074083075576_3692466044388260958_n.mp4)
+![](./thuduyen07/234160250_2997901120490392_9088379777418705540_n.jpg)
 
 <p align="center">Do the small things, build the best things</p>
 
