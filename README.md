@@ -45,8 +45,11 @@ Besides, I'm learning Mathematics and Computer Science, and looking for an oppor
 <p>
 <a href="https://www.linkedin.com/in/thuduyen07/"><img alt="LinkedIn" title="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" height=23/></a>
 <a href="mailto:thuduyen07@gmail.com"><img alt="Gmail" title="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height=23/></a>
+
+<!--
 <a href="https://www.facebook.com/thuduyen07/"><img alt="Facebook" title="Facebook" src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" height=23/></a>
 </p>
+>
 
 <!-- ### Support 
 ❤️If you like my sharing, please visit my channels and share it with your friends! 
